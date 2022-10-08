@@ -2,6 +2,67 @@
     <string name="app_name">coffee</string>
     <string name="title_list">List Coffee</string>
     <string name="title_favorite">Favorite Coffee</string>
+    <string name="title_detail">Detail Coffee</string>
+    <string name="judul1">Espresso</string>
+    <string name="label1">seduhan kopi giling dan air yang mendidih tanpa ada tambahan susu, pemanis ataupun krimer</string>
+    <string name="desc1">
+        <p>Jenis kopi ini akan sering kamu temui jika sedang berada di kedai kopi. Kopi ini merupakan kopi hitam yang aromanya sangat kuat dan pekat. Kopi ini dihasilkan dari ekstrak biji kopi yang telah digiling. Secangkir espresso ini bisa kamu nikmati dengan menekan bubuk kopinya di dalam portafilter.\n</p>
+        <p>Espresso juga disebut dengan shot karena penyajiannya murni dari seduhan kopi giling dan air yang mendidih tanpa ada tambahan susu, pemanis ataupun krimer.</p>
+</string>
+    <string name="judul2">Americano</string>
+    <string name="label2">Campuran dari kopi espresso yang ditambahkan dengan air panas lagi</string>
+    <string name="desc2">
+        Kopi ini merupakan campuran dari kopi espresso yang ditambahkan dengan air panas lagi. Awal mula terbentuk kopi Americano adalah saat warga Amerika ingin menikmati espresso yang tidak terlalu kental dan pekat sehingga mereka menambahkan air panas ke dalam espresso. Rasanya tetap pahit tanpa ada tambahan gila dan krimer.
+
+</string>
+    <string name="judul3">Cappucino</string>
+    <string name="label3">Cappucino merupakan campuran antara espresso, susu dan busa susu</string>
+    <string name="desc3">
+        Untuk kamu yang tidak terlalu suka dengan kopi yang terlalu pahit dan kental, kamu bisa mencoba kopi jenis ini. Cappucino merupakan campuran antara espresso, susu dan busa susu. Tekstur yang dimiliki cappucino ini juga halus dan memiliki rasa sedikit manis.
+
+</string>
+    <string name="judul4">Moccachino</string>
+    <string name="label4">Moccachino merupakan jenis kopi campuran espresso, susu dan coklat</string>
+    <string name="desc4">
+        Moccachino merupakan jenis kopi campuran espresso, susu dan coklat. Penambahan coklat pada kopi ini membuat kopi lebih manis dan nikmat. Untuk menambah kenikmatan pada kopi Moccachino kamu juga bisa menambahkan whipped cream dan marshmellow.
+
+</string>
+    <string name="judul5">Kopi Luwak</string>
+    <string name="label5">Kopi luwak adalah seduhan kopi menggunakan biji kopi yang diambil dari sisa kotoran luwak / musang kelapa</string>
+    <string name="desc5">
+        Kopi yang memiliki rasa yang khas dan keasaman yang pas menjadikannya kopi termahal yang dimiliki Indonesia. Kopi yang dihasilkan dari kotoran luwak (Musang) ini menjadi incaran pecinta kopi. Prosesnya yang membuat kopi ini mahal. Kopi luwak terbaik adalah biji kopi yang dimakan oleh luwak liar dan dikeluarkan dalam bentuk kotoran lalu di olah.
+
+</string>
+    <string name="judul6">Latte</string>
+    <string name="label6">latte terdiri dari espresso dan steamed milk dengan sedikit busa di atasnya</string>
+    <string name="desc6">
+        Sebagai minuman kopi paling populer di dunia, latte terdiri dari espresso dan steamed milk dengan sedikit busa di atasnya. Latte bisa dipesan dalam bentuk dan rasa originalnya, atau dengan tambahan perasa mulai dari vanilla hingga kayu manis. Latte juga terkenal dengan latte art-nya, yakni seni menggambar bentuk atau pola di atas busa minuman ini.
+
+</string>
+    <string name="judul7">Cortado</string>
+    <string name="label7">Cortado adalah jenis minuman kopi yang menawarkan keseimbangan antara espresso dan steamed milk hangat</string>
+    <string name="desc7">
+        Cortado adalah jenis minuman kopi yang menawarkan keseimbangan antara espresso dan steamed milk hangat. Steamed milk biasanya digunakan untuk mengurangi keasaman espresso pada jenis minuman kopi yang satu ini.
+
+</string>
+    <string name="judul8">Galao</string>
+    <string name="label8">Jenis minuman kopi panas ini sangat erat kaitannya dengan latte dan cappucino</string>
+    <string name="desc8">
+        Galão adalah jenis minuman kopi yang berasal dari Portugal. Jenis minuman kopi panas ini sangat erat kaitannya dengan latte dan cappucino. Satu-satunya perbedaan adalah galão mengandung sekitar dua kali lebih banyak milk foam, menjadikannya minuman yang lebih ringan dibandingkan dengan latte ataupun cappuccino.
+
+</string>
+    <string name="judul9">Macchiato</string>
+    <string name="label9">Macchiato adalah jenis minuman kopi berbasis espresso lainnya yang memiliki sedikit busa di atasnya</string>
+    <string name="desc9">
+        Macchiato adalah jenis minuman kopi berbasis espresso lainnya yang memiliki sedikit busa di atasnya. Kata macchiato berarti tanda atau noda. Ini mengacu pada tanda bahwa steamed milk meninggalkan permukaan espresso saat dituangkan ke dalam minuman. Sirup perasa sering ditambahkan ke jenis minuman kopi ini, sesuai dengan preferensi pelanggan.
+
+</string>
+    <string name="judul10">Flat White</string>
+    <string name="label10">perpaduan antara cappucino tanpa foam atau taburan coklat</string>
+    <string name="desc10">
+        Jenis minuman kopi yang satu ini berasal dari Australia dan New Zealand, yang merupakan perpaduan antara cappucino tanpa foam atau taburan coklat. Flat white adalah jenis minuman kopi espresso dengan steamed milk.
+
+</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

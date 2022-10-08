@@ -3,32 +3,35 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/nav_graph"
-    app:startDestination="@+id/navigation_home">
+    app:startDestination="@id/navigation_list">
 
     <fragment
-        android:id="@+id/navigation_home"
-        android:name="unj.cs.hw4.coffeeFragment"
+        android:id="@+id/navigation_list"
+        android:name="unj.cs.hw4.ui.coffee.CoffeeFragment"
         android:label="@string/title_list"
         tools:layout="@layout/fragment_coffee" >
         <action
-            android:id="@+id/action_navigation_home_to_detailFragment"
+            android:id="@+id/action_navigation_list_to_detailFragment"
             app:destination="@id/detailFragment" />
     </fragment>
     <fragment
         android:id="@+id/detailFragment"
-        android:name="unj.cs.hw4.coffeeDetail"
-        android:label="fragment_detail"
-        tools:layout="@layout/fragment_coffee_detail" />
+        android:name="unj.cs.hw4.ui.detail.CoffeeDetailFragment"
+        android:label="@string/title_detail"
+        tools:layout="@layout/fragment_coffee_detail" >
+        <argument
+            android:name="currentCoffee"
+            app:argType="unj.cs.hw4.model.Coffee" />
+    </fragment>
     <fragment
         android:id="@+id/navigation_favorite"
-        android:name="unj.cs.hw4.favoriteFragment"
+        android:name="unj.cs.hw4.ui.favorite.FavoriteFragment"
         android:label="@string/title_favorite"
         tools:layout="@layout/fragment_favorite" >
         <action
             android:id="@+id/action_navigation_favorite_to_detailFragment"
-            app:destination="@+id/detailFragment" />
+            app:destination="@id/detailFragment" />
     </fragment>
-
 
 
 </navigation>
