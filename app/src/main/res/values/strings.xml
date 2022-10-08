@@ -2,6 +2,12 @@
     <string name="app_name">coffee</string>
     <string name="title_list">List Coffee</string>
     <string name="title_favorite">Favorite Coffee</string>
+    <string name="judul1">Kopi Arabika</string>
+    <string name="desc1">Kopi arabika ini adalah kopi pertama yang ditemukan oleh bangsa Arab di Ethiopia. Karena bangsa Arab yang menemukan dan menyebarluaskan ke seluruh dunia maka kopi ini dinamakan kopi arabika.
+
+Kopi arabika ini kopi yang paling populer di dunia. Pedagang kopi di dunia lebih banyak menjual kopi arabika dibandingkan kopi yang populer lainnya. Harga kopi ini juga terbilang mahal. Hal ini disebabkan karena perawatan dan penanamannya yang tidak mudah.
+
+Kopi arabika ini memiliki karakteristiknya sendiri. Kopi ini warna hasil seduhannya tidak terlalu kental. Lalu rasanya pun dari tingkat keasaman kopi lebih tinggi daripada tingkat kafein di dalamnya. Kemudian kopi ini lebih wangi dan lebih kaya daripada kopi lainnya.</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
