@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="unj.cs.hw4.coffeeFragment"
+        android:label="@string/title_list"
+        tools:layout="@layout/fragment_coffee" >
+        <action
+            android:id="@+id/action_navigation_home_to_detailFragment"
+            app:destination="@id/detailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="unj.cs.hw4.coffeeDetail"
+        android:label="fragment_detail"
+        tools:layout="@layout/fragment_coffee_detail" />
+    <fragment
+        android:id="@+id/navigation_favorite"
+        android:name="unj.cs.hw4.favoriteFragment"
+        android:label="@string/title_favorite"
+        tools:layout="@layout/fragment_favorite" >
+        <action
+            android:id="@+id/action_navigation_favorite_to_detailFragment"
+            app:destination="@+id/detailFragment" />
+    </fragment>
+
+
+
+</navigation>
